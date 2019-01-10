@@ -7,11 +7,29 @@
 <body>
 	
 	<?php
+
 	
 
 	function testmethod()
 	{
 		echo "hello";
+
+	}	
+
+	/*
+	!-------------------------------
+	!   This is Demo Class
+	!-------------------------------
+	*/
+
+	class Democlass
+	{
+	   
+	    public function __construct()
+	    {
+	        
+	    }
+
 	}
 
 	?>
