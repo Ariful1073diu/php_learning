@@ -7,7 +7,22 @@
 <body>
 	
 	<?php
-	echo "this is my first php script";
+
+	/*
+	!-------------------------------
+	!   This is Demo Class
+	!-------------------------------
+	*/
+
+	class Democlass
+	{
+	   
+	    public function __construct()
+	    {
+	        
+	    }
+	}
+
 	?>
 	
 </body>
