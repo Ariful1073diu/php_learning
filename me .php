@@ -7,7 +7,13 @@
 <body>
 	
 	<?php
-	echo "this is my first php script";
+	
+
+	function testmethod()
+	{
+		echo "hello";
+	}
+
 	?>
 	
 </body>
